@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
+.font-source{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.font-poppins{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-red-orange{
+    background-color: 
+}
+.btn-box-shadown{
+    box-shadow: inset 0 0 0 0 #f9e506
+}
+.btn-box-shadown-hover:hover{
+    box-shadow: inset 120px 0 0 0 #f9e506
+}
+.btn-transition{
+    transition: ease-out 0.3s;
+}
 @tailwind utilities;
